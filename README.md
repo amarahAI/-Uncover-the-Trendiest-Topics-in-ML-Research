@@ -1,6 +1,5 @@
-# The-hottest-topic-in-ML
+# Uncover the Trendiest Topics in ML Research
 
-Project on DataCamp.
 
 Project Description
 
